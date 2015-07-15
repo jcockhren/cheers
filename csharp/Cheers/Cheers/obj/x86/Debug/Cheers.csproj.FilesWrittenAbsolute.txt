@@ -1,0 +1,5 @@
+/Users/hannahsmithmier1/Documents/NSS/c#/cheers/csharp/Cheers/Cheers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/hannahsmithmier1/Documents/NSS/c#/cheers/csharp/Cheers/Cheers/bin/Debug/Cheers.exe.mdb
+/Users/hannahsmithmier1/Documents/NSS/c#/cheers/csharp/Cheers/Cheers/bin/Debug/Cheers.exe
+/Users/hannahsmithmier1/Documents/NSS/c#/cheers/csharp/Cheers/Cheers/obj/x86/Debug/Cheers.exe
+/Users/hannahsmithmier1/Documents/NSS/c#/cheers/csharp/Cheers/Cheers/obj/x86/Debug/Cheers.exe.mdb
