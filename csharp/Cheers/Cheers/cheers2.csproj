@@ -1,0 +1,11 @@
+﻿using System;
+namespace Cheers
+{
+	public class cheers2
+	{
+		public cheers2()
+		{
+		}
+	}
+}
+
